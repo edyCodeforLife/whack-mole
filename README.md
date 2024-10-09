@@ -48,7 +48,7 @@ This project is a web-based Whack-a-Mole game where players can test their refle
     npm run deploy
     ```
 
-3. Verify the deployment by visiting: `https://edyCodeforLife.github.io/whack-mole`.
+3. Verify the deployment by visiting: `https://look-for-mole.netlify.app/`.
 
 ## Contributing
 
